@@ -1,0 +1,6 @@
+psutil
+pillow
+art
+PyPDF2
+python-docx
+pdfplumber
