@@ -4,3 +4,4 @@ art
 PyPDF2
 python-docx
 pdfplumber
+cryptography
